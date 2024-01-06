@@ -10,7 +10,7 @@ I am a Data Science Master's student at the University of Verona, where I learn 
 * ✉️  You can contact me at [mohsen1370shahi@gmail.com](mailto:mohsen1370shahi@gmail.com)
 * 🚀  I'm currently working on [ASP.NEY MVC web project of IMDB movies](http://github.com/mohsenshahii/IMDB_list)
 * 🧠  I'm learning B1 Italian language
-* ⚡  I'm interested in financial management and accounting
+* ⚡  I'm also interested in financial management and accounting
 
 ### Skills
 
