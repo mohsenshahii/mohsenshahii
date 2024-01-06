@@ -6,9 +6,9 @@ Web Developer and Data Scientist
 
 I am a Data Science Master's student at the University of Verona, where I learn to program and solve creative problems with data. I have a Bachelor's degree in Computer Science from Shamsipour Technical and Vocational College, and a background in Artificial Intelligence from Ferdowsi University of Mashhad. My skills and knowledge include Python, JavaScript, HTML, CSS, SQL, Git, Vue.js, and C, as well as Django, Tableau, Matplotlib, and Numpy for web development, data visualization, and analysis. I have applied them in various projects, such as building a web app for real state union, creating a dashboard for a mobile app calender, and analyzing patients' data for a heart desease prediction platform. I also have experience in teaching English at Hafez institute of Foreign languages, where I completed a teacher training course and taught intermediate level students. I have an IELTS English certificate and I am working on my Italian (B1 level). I am passionate about learning new languages and cultures, and I enjoy traveling and reading. I am an ambitious go-getter who values teamwork and learning. I am always eager to improve my skills and explore new challenges in the field of data science. My main goal is to become a proficient and innovative programmer who can contribute to the betterment of humanity.
 
-* 🌍  I'm based in Verona, Italy
-* ✉️  You can contact me at [mohsen1370shahi@gmail.com](mailto:mohsen1370shahi@gmail.com)
-* 🚀  I'm currently working on [ASP.NEY MVC web project of IMDB movies](http://github.com/mohsenshahii/IMDB_list)
+* 🌍  Verona, Italy
+* ✉️  [mohsen1370shahi@gmail.com](mailto:mohsen1370shahi@gmail.com)
+* 🚀  Currently working on [ASP.NEY MVC web project of IMDB movies](http://github.com/mohsenshahii/IMDB_list)
 * 🧠  I'm learning B1 Italian language
 * ⚡  I'm also interested in financial management and accounting
 
