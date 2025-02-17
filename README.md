@@ -4,11 +4,21 @@ Mohsen shahi
 Web Developer and Data Scientist
 --------------------------------
 
-I'm a Data Science Master's student at the University of Verona, where I learn to program and solve creative problems with data. I have a Bachelor's degree in Computer Science from Shamsipour Technical and Vocational College, and a background in Artificial Intelligence from Ferdowsi University of Mashhad. My skills and knowledge include Python, JavaScript, HTML, Razor, CSS, SQL, Git, Vue.js, and C, as well as Django, Tableau, Matplotlib, and Numpy for web development, data visualization, and analysis. I have applied them in various projects, such as building a web app for real state union, creating a dashboard for a mobile app calender, and analyzing patients' data for a heart desease prediction platform. I also have experience in teaching English at Hafez institute of Foreign languages, where I completed a teacher training course and taught intermediate level students. I have an IELTS English certificate and I am working on my Italian (B1 level). I am passionate about learning new languages and cultures, and I enjoy traveling and reading. I am an ambitious go-getter who values teamwork and learning. I am always eager to improve my skills and explore new challenges in the field of data science. My main goal is to become a proficient and innovative programmer who can contribute to the betterment of humanity.
+I'm a Data Science Master's student at the University of Verona, where I apply programming and data analysis to solve creative problems. I hold a Bachelor's degree in Computer Science from Shamsipour Technical and Vocational College and have a background in Artificial Intelligence from Ferdowsi University of Mashhad.
+
+My skills and experience span Python, JavaScript, HTML, Razor, CSS, SQL, Git, Vue.js, and C, along with frameworks and tools such as Django, Tableau, Matplotlib, and Numpy for web development, data visualization, and analysis.
+
+I have worked on multiple projects, including:
+
+🔧 Tube Cutting Optimization Project, an advanced PySide6 GUI application that optimizes industrial tube-cutting processes by processing CSV data and generating optimized cutting strategies.
+🏡 A Django-based Web App for a business management company hosted on A2 hosting, which helps streamline process management.
+📅 A Mobile App Dashboard for Calendar Visualization, enhancing user scheduling and event tracking.
+🏥 Heart Disease Prediction Platform, where I analyzed patient data for predictive insights.
+I am passionate about learning new technologies, languages, and cultures. I hold an IELTS certificate and am actively working on improving my Italian (B1 level). My goal is to become a proficient and innovative programmer who contributes to impactful data-driven solutions for real-world problems. 🚀
 
 * 🌍  Verona, Italy
 * ✉️  [mohsen1370shahi@gmail.com](mailto:mohsen1370shahi@gmail.com)
-* 🚀  Currently working on [ASP.NEY MVC web project of IMDB movies](http://github.com/mohsenshahii/IMDB_list)
+* 🚀  Currently working on Django/Mysql database management 
 * 🧠  I'm learning B1 Italian language
 * ⚡  I'm also interested in financial management and accounting
 
