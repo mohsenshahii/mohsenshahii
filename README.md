@@ -10,10 +10,10 @@ My skills and experience span Python, JavaScript, HTML, Razor, CSS, SQL, Git, Vu
 
 I have worked on multiple projects, including:
 
-🔧 Tube Cutting Optimization Project, an advanced PySide6 GUI application that optimizes industrial tube-cutting processes<br>
-🏡 A Django-based Web App for a business management company hosted on A2 hosting, which helps streamline process management.
-📅 A Mobile App Dashboard for Calendar Visualization, enhancing user scheduling and event tracking.
-🏥 Heart Disease Prediction Platform, where I analyzed patient data for predictive insights.
+🔧 Tube Cutting Optimization Project, an advanced PySide6 GUI application that optimizes industrial tube-cutting processes.<br>
+🏡 A Django-based Web App for a business management company hosted on A2 hosting, which helps streamline process management.<br>
+📅 A Mobile App Dashboard for Calendar Visualization, enhancing user scheduling and event tracking.<br>
+🏥 Heart Disease Prediction Platform, where I analyzed patient data for predictive insights.<br>
 I am passionate about learning new technologies, languages, and cultures. I hold an IELTS certificate and am actively working on improving my Italian (B1 level). My goal is to become a proficient and innovative programmer who contributes to impactful data-driven solutions for real-world problems. 🚀
 
 * 🌍  Verona, Italy
